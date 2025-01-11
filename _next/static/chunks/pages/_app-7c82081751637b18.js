@@ -387,7 +387,7 @@
         privacy: "/#privacy",
         branding: "/#branding",
         play: "/#play",
-        treasury: "https://dexscreener.com/solana/0x00000000000",
+        treasury: "https://dextools.io",
         demos: "https://app.gen-ai.us.com",
       };
     },
