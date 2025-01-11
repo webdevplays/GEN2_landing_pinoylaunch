@@ -388,7 +388,7 @@
         branding: "/#branding",
         play: "/#play",
         treasury: "https://dexscreener.com/solana/0x00000000000",
-        demos: "https://app.gen-ai.website/",
+        demos: "https://app.gen-ai.us.com",
       };
     },
     1896: (e, t, r) => {
